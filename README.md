@@ -19,4 +19,4 @@ Visual Studio Code
 FREE
 ## Recursos adicionales
 ### Enlace a la página de GitHub
-()
+(https://github.com/Pechi-RO/maquetacion-flex.git)
